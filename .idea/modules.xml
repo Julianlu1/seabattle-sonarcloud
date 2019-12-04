@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/SeaBattleLogin/SeaBattleLogin.iml" filepath="$PROJECT_DIR$/SeaBattleLogin/SeaBattleLogin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SeaBattleStart.iml" filepath="$PROJECT_DIR$/SeaBattleStart.iml" />
+      <module fileurl="file://$PROJECT_DIR$/seabattleCommunicatorShared/seabattleCommunicatorShared.iml" filepath="$PROJECT_DIR$/seabattleCommunicatorShared/seabattleCommunicatorShared.iml" />
+      <module fileurl="file://$PROJECT_DIR$/seabattleclient/seabattleclient.iml" filepath="$PROJECT_DIR$/seabattleclient/seabattleclient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/seabattleserver/seabattleserver.iml" filepath="$PROJECT_DIR$/seabattleserver/seabattleserver.iml" />
+    </modules>
+  </component>
+</project>

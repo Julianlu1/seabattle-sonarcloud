@@ -1,0 +1,18 @@
+
+gsquid:S2147R"DCombine this catch with the one at line 80, which has the same body.(‡¤“Óûÿÿÿÿ8½‰ªßá-
+‹"squid:ClassVariableVisibilityCheckc"QMake email a static final constant or non-public and provide accessors if needed.(¾Æ†Ëıÿÿÿÿ8ÖâæÅß-
+Osquid:S3599",Use another way to initialize this instance.(ä¸­Ûüÿÿÿÿ8ÖâæÅß-
+ˆ"squid:ClassVariableVisibilityCheckb"TMake lastName a static final constant or non-public and provide accessors if needed.(¿ü8ÖâæÅß-
+asquid:UselessImportCheck"6Remove this unused import 'java.io.InputStreamReader'.(ãˆÎÉ8ÀàñÅß-
+|squid:S1171"YMove the contents of this initializer to a standard constructor or to field initializers.(ä¸­Ûüÿÿÿÿ8ÖâæÅß-
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ùİµŠùÿÿÿÿ
+Osquid:S3599<",Use another way to initialize this instance.(ä¸­Ûüÿÿÿÿ8½‰ªßá-
+bsquid:S2147T"DCombine this catch with the one at line 80, which has the same body.(ï­£Ä8½‰ªßá-
+"squid:ClassVariableVisibilityCheckd"TMake password a static final constant or non-public and provide accessors if needed.(¼şòüÿÿÿÿ8ÖâæÅß-
+|squid:S1171<"YMove the contents of this initializer to a standard constructor or to field initializers.(ä¸­Ûüÿÿÿÿ8½‰ªßá-
+hsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(–åˆ8ÃÓçÅß-
+Esquid:S1481+"'Remove this unused "id" local variable.(˜ÊøÏ8óÇß-
+^squid:UselessImportCheck"3Remove this unused import 'java.io.BufferedReader'.(€é²Å8ÀàñÅß-
+"squid:ClassVariableVisibilityChecka"UMake firstName a static final constant or non-public and provide accessors if needed.(ßæÆÑıÿÿÿÿ8ÖâæÅß-
+ˆ"squid:ClassVariableVisibilityCheck`"NMake id a static final constant or non-public and provide accessors if needed.(Â¥Šˆøÿÿÿÿ8ÖâæÅß-
+Esquid:S1481K"'Remove this unused "id" local variable.(˜ÊøÏ8½‰ªßá-

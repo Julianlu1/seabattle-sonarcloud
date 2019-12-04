@@ -1,0 +1,72 @@
+
+Lsquid:S1604©"(Make this anonymous inner class a lambda(ôâŠûıÿÿÿÿ8½ –…ä-
+Lsquid:S1604–"(Make this anonymous inner class a lambda(ôâŠûıÿÿÿÿ8½ –…ä-
+osquid:CommentedOutCodeLineà"<This block of commented-out lines of code should be removed.(¥¢ˆúÿÿÿÿ8½ –…ä-
+vsquid:S1192ƒ"RDefine a constant instead of duplicating this literal "Select square in " 3 times.(‹ßƒÿÿÿÿÿ8—åŸ‰ä-
+asquid:S2184š"BCast one of the operands of this addition operation to a "double".(şÊ–§8½ –…ä-
+Gsquid:S1604ç"(Make this anonymous inner class a lambda(ø÷ûŞ8½ –…ä-
+jsquid:CommentedOutCodeLine˜"<This block of commented-out lines of code should be removed.(ƒ‘ë‘8½ –…ä-
+{squid:S1450W"XRemove the "oceanArea" field and declare it as a local variable in the relevant methods.(¯Ô…Âùÿÿÿÿ8½ –…ä-
+=squid:S11700"!Make this final field static too.(Æ«¦›ıÿÿÿÿ
+_squid:S2184¬"@Cast one of the operands of this integer division to a "double".(«’Òş8½ –…ä-
+]squid:S1854"9Remove this useless assignment to local variable "ships".(Á“·Ìûÿÿÿÿ8½ –…ä-
+lsquid:S2184É"HCast one of the operands of this multiplication operation to a "double".(¯œ—ºûÿÿÿÿ8½ –…ä-
+{squid:S001164"\Rename this field "NRSQUARESVERTICAL" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Š°¸ª8½ –…ä-
+Lsquid:S1604»"(Make this anonymous inner class a lambda(‚Ëî³üÿÿÿÿ8½ –…ä-
+Fsquid:S1604Ü"(Make this anonymous inner class a lambda(ÑÇ¶8½ –…ä-
+asquid:S2184š"BCast one of the operands of this addition operation to a "double".(şÊ–§8½ –…ä-
+Lsquid:S1604´"(Make this anonymous inner class a lambda(¤Ûíáúÿÿÿÿ8½ –…ä-
+_squid:S2184Ò"@Cast one of the operands of this integer division to a "double".(ÚŞŒº8½ –…ä-
+hsquid:S1192Ÿ"IDefine a constant instead of duplicating this literal "\'s grid" 5 times.(øÜ¶î8½ –…ä-
+Lsquid:S1604"(Make this anonymous inner class a lambda(ôâŠûıÿÿÿÿ8½ –…ä-
+?squid:S1170,"!Make this final field static too.(òÎ÷8½ –…ä-
+8squid:S11703"!Make this final field static too.(ÛÕğÛ
+tsquid:S00116-"URename this field "AREAHEIGHT" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‹ÙÁ–8½ –…ä-
+nsquid:S00116/"WRename this field "SQUAREHEIGHT" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¿•ª/
+]squid:S1854°"9Remove this useless assignment to local variable "ships".(Á“·Ìûÿÿÿÿ8½ –…ä-
+Ksquid:S1172Ñ",Remove this unused method parameter "event".(¡Òìš8—åŸ‰ä-
+Gsquid:S1604€"(Make this anonymous inner class a lambda(Åà­ó8½ –…ä-
+Hsquid:S5411ê"*Use the primitive boolean expression here.(—•›N8’äÃÊæ-
+lsquid:S2184¤"HCast one of the operands of this multiplication operation to a "double".(Òªã±ıÿÿÿÿ8½ –…ä-
+ssquid:S001160"VRename this field "BUTTONWIDTH" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Æ«¦›ıÿÿÿÿ
+o
+squid:S128…"LEnd this switch case with an unconditional break, return or throw statement.(®è¯Áøÿÿÿÿ8’äÃÊæ-
+jsquid:CommentedOutCodeLine¬"<This block of commented-out lines of code should be removed.(ØÊÌ¥8—åŸ‰ä-
+Gsquid:S1604Ù"(Make this anonymous inner class a lambda(­Ëî8½ –…ä-
+Lsquid:S1604‰"(Make this anonymous inner class a lambda(Ä‹°ñüÿÿÿÿ8½ –…ä-
+ysquid:S00116+"URename this field "BORDERSIZE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Â¦Ôœøÿÿÿÿ8½ –…ä-
+nsquid:S00116."VRename this field "SQUAREWIDTH" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(·–ë
+Lsquid:S1604®"(Make this anonymous inner class a lambda(ôâŠûıÿÿÿÿ8—åŸ‰ä-
+osquid:CommentedOutCodeLine·"<This block of commented-out lines of code should be removed.(¸£í­ùÿÿÿÿ8—åŸ‰ä-
+jsquid:CommentedOutCodeLine±"<This block of commented-out lines of code should be removed.(ØÊÌ¥8½ –…ä-
+Dsquid:S1170+"!Make this final field static too.(Â¦Ôœøÿÿÿÿ8½ –…ä-
+osquid:S1764"KCorrect one of the identical sub-expressions on both sides of operator "=="(À‚‚·úÿÿÿÿ8’äÃÊæ-
+Lsquid:S1604–"(Make this anonymous inner class a lambda(œ‰ãÜúÿÿÿÿ8½ –…ä-
+Lsquid:S1604ş"(Make this anonymous inner class a lambda(ôâŠûıÿÿÿÿ8½ –…ä-
+wsquid:S1450="YRemove the "targetArea" field and declare it as a local variable in the relevant methods.(´ëÕò8½ –…ä-
+Lsquid:S1604¬"(Make this anonymous inner class a lambda(Ûø üÿÿÿÿ8½ –…ä-
+Lsquid:S1604¥"(Make this anonymous inner class a lambda(Êù®Æøÿÿÿÿ8½ –…ä-
+?squid:S1170-"!Make this final field static too.(‹ÙÁ–8½ –…ä-
+_squid:S2184­"@Cast one of the operands of this integer division to a "double".(µœÍÇ8½ –…ä-
+qsquid:UselessImportCheck"FRemove this unused import 'seabattlecommunicator.CommunicatorMessage'.(¤ÎŠş8Ñİ‹‰ä-
+Qsquid:S1135í"2Complete the task associated to this TODO comment.(ï«ï‹8½ –…ä-
+”"squid:SwitchLastCaseIsDefaultCheck„"YComplete cases by adding the missing enum constants or add a default case to this switch.(ìù¡úÿÿÿÿ8—åŸ‰ä-
+Fsquid:S1604·"(Make this anonymous inner class a lambda(ÑÇ¶8½ –…ä-
+Gsquid:S1604Ó"(Make this anonymous inner class a lambda(ŞÈ°ı8½ –…ä-
+7squid:S1170/"!Make this final field static too.(¿•ª/
+Psquid:S1172¤",Remove this unused method parameter "event".(ÀÈ”Êüÿÿÿÿ8—åŸ‰ä-
+Gsquid:S1604ğ"(Make this anonymous inner class a lambda(Àİ¶8½ –…ä-
+Gsquid:S1604Ê"(Make this anonymous inner class a lambda(é¿Ê—8½ –…ä-
+vsquid:S001163"^Rename this field "NRSQUARESHORIZONTAL" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÛÕğÛ
+Nsquid:S1481İ"/Remove this unused "chosenShip" local variable.(¤ Á8ıÌŸ‰ä-
+osquid:S1301„"KReplace this "switch" statement by "if" statements to increase readability.(ìù¡úÿÿÿÿ8—åŸ‰ä-
+ssquid:S00116,"TRename this field "AREAWIDTH" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(òÎ÷8½ –…ä-
+Lsquid:S1604ì"(Make this anonymous inner class a lambda(„‚÷×ûÿÿÿÿ8½ –…ä-
+?squid:S11704"!Make this final field static too.(Š°¸ª8½ –…ä-
+8squid:S1170."!Make this final field static too.(·–ë
+jsquid:CommentedOutCodeLine–"<This block of commented-out lines of code should be removed.(Ş›Ï‘8½ –…ä-
+Lsquid:S1604Ë"(Make this anonymous inner class a lambda(ôâŠûıÿÿÿÿ8½ –…ä-
+dsquid:S2184Ñ"@Cast one of the operands of this integer division to a "double".(Î©Í’ûÿÿÿÿ8½ –…ä-
+]squid:S1854İ">Remove this useless assignment to local variable "chosenShip".(¤ Á8ıÌŸ‰ä-
+Lsquid:S1604‡"(Make this anonymous inner class a lambda(œ—– ÿÿÿÿÿ8½ –…ä-
+Lsquid:S1604Ã"(Make this anonymous inner class a lambda(ÍÕÕÁÿÿÿÿÿ8½ –…ä-

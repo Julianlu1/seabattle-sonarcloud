@@ -1,0 +1,3 @@
+module seabattleCommunicatorShared {
+    exports seabattlecommunicatorshared;
+}

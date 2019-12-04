@@ -1,0 +1,117 @@
+2019-09-25 09:43:32,372 [main] [DEBUG] seabattlegame.SeaBattleGame - Register Player null - password password
+2019-09-25 09:43:32,400 [main] [DEBUG] seabattlegame.SeaBattleGame - Register Player Some Name - password Some Password
+2019-09-25 09:59:24,273 [main] [DEBUG] seabattlegame.SeaBattleGame - Register Player null - password password
+2019-09-25 09:59:24,301 [main] [DEBUG] seabattlegame.SeaBattleGame - Register Player Jan - password 123
+2019-09-25 09:59:24,305 [main] [DEBUG] seabattlegame.SeaBattleGame - Register Player Some Name - password Some Password
+2019-09-25 09:59:24,323 [main] [DEBUG] seabattlegame.SeaBattleGame - Register Player Jan - password null
+2019-09-25 10:10:16,540 [main] [DEBUG] seabattlegame.SeaBattleGame - Register Player Some Name - password Some Password
+2019-09-25 10:10:16,594 [main] [DEBUG] seabattlegame.SeaBattleGame - Register Player null - password password
+2019-09-25 10:10:16,600 [main] [DEBUG] seabattlegame.SeaBattleGame - Register Player Jan - password 123
+2019-09-25 10:10:16,603 [main] [DEBUG] seabattlegame.SeaBattleGame - Register Player Some Name - password Some Password
+2019-09-25 10:10:16,612 [main] [DEBUG] seabattlegame.SeaBattleGame - Register Player Jan - password null
+2019-09-25 10:14:38,911 [main] [DEBUG] seabattlegame.SeaBattleGame - Register Player Some Name - password Some Password
+2019-09-25 10:14:38,963 [main] [DEBUG] seabattlegame.SeaBattleGame - Register Player null - password password
+2019-09-25 10:14:38,992 [main] [DEBUG] seabattlegame.SeaBattleGame - Register Player Jan - password 123
+2019-09-25 10:14:39,000 [main] [DEBUG] seabattlegame.SeaBattleGame - Register Player Some Name - password Some Password
+2019-09-25 10:14:39,011 [main] [DEBUG] seabattlegame.SeaBattleGame - Register Player Jan - password null
+2019-09-25 10:21:28,246 [main] [DEBUG] seabattlegame.SeaBattleGame - Register Player Some Name - password Some Password
+2019-09-25 10:21:28,286 [main] [DEBUG] seabattlegame.SeaBattleGame - Register Player null - password password
+2019-09-25 10:21:28,323 [main] [DEBUG] seabattlegame.SeaBattleGame - Register Player Jan - password 123
+2019-09-25 10:21:28,335 [main] [DEBUG] seabattlegame.SeaBattleGame - Register Player Some Name - password Some Password
+2019-09-25 10:21:28,344 [main] [DEBUG] seabattlegame.SeaBattleGame - Register Player Jan - password null
+2019-09-25 10:22:00,997 [main] [DEBUG] seabattlegame.SeaBattleGame - Register Player Some Name - password Some Password
+2019-09-25 10:22:01,050 [main] [DEBUG] seabattlegame.SeaBattleGame - Register Player null - password password
+2019-09-25 10:22:01,054 [main] [DEBUG] seabattlegame.SeaBattleGame - Register Player Jan - password 123
+2019-09-25 10:22:01,058 [main] [DEBUG] seabattlegame.SeaBattleGame - Register Player Some Name - password Some Password
+2019-09-25 10:22:01,078 [main] [DEBUG] seabattlegame.SeaBattleGame - Register Player Jan - password null
+2019-09-25 12:10:41,466 [main] [DEBUG] seabattlegame.SeaBattleGame - Register Player null - password password
+2019-09-25 12:10:41,489 [main] [DEBUG] seabattlegame.SeaBattleGame - Register Player Some Name - password Some Password
+2019-09-25 12:10:41,503 [main] [DEBUG] seabattlegame.SeaBattleGame - Register Player Some Name - password Some Password
+2019-09-25 12:10:41,517 [main] [DEBUG] seabattlegame.SeaBattleGame - Register Player Jan - password 123
+2019-09-25 12:10:41,520 [main] [DEBUG] seabattlegame.SeaBattleGame - Register Player Some Name - password Some Password
+2019-09-25 12:10:41,533 [main] [DEBUG] seabattlegame.SeaBattleGame - Register Player Some Name - password Some Password
+2019-09-25 12:10:41,540 [main] [DEBUG] seabattlegame.SeaBattleGame - Register Player Some Name - password Some Password
+2019-09-25 12:10:41,545 [main] [DEBUG] seabattlegame.SeaBattleGame - Register Player Jan - password null
+2019-09-25 12:10:41,548 [main] [DEBUG] seabattlegame.SeaBattleGame - Register Player Some Name - password Some Password
+2019-10-02 10:04:32,734 [main] [DEBUG] seabattlegame.SeaBattleGame - Register Player null - password password
+2019-10-02 10:04:32,780 [main] [DEBUG] seabattlegame.SeaBattleGame - Register Player Some Name - password Some Password
+2019-10-02 10:04:32,798 [main] [DEBUG] seabattlegame.SeaBattleGame - Register Player Some Name - password Some Password
+2019-10-02 10:04:32,802 [main] [DEBUG] seabattlegame.SeaBattleGame - Register Player Some Name - password Some Password
+2019-10-02 10:04:32,806 [main] [DEBUG] seabattlegame.SeaBattleGame - Register Player Some Name - password Some Password
+2019-10-02 10:04:32,814 [main] [DEBUG] seabattlegame.SeaBattleGame - Register Player Jan - password 123
+2019-10-02 10:04:32,820 [main] [DEBUG] seabattlegame.SeaBattleGame - Register Player Some Name - password Some Password
+2019-10-02 10:04:32,824 [main] [DEBUG] seabattlegame.SeaBattleGame - Register Player Some Name - password Some Password
+2019-10-02 10:04:32,832 [main] [DEBUG] seabattlegame.SeaBattleGame - Register Player Some Name - password Some Password
+2019-10-02 10:04:32,841 [main] [DEBUG] seabattlegame.SeaBattleGame - Register Player Some Name - password Some Password
+2019-10-02 10:04:32,852 [main] [DEBUG] seabattlegame.SeaBattleGame - Register Player Jan - password null
+2019-10-02 10:04:32,858 [main] [DEBUG] seabattlegame.SeaBattleGame - Register Player Some Name - password Some Password
+2019-10-02 10:04:32,880 [main] [DEBUG] seabattlegame.SeaBattleGame - Register Player Some Name - password Some Password
+2019-10-02 10:04:32,896 [main] [DEBUG] seabattlegame.SeaBattleGame - Register Player Some Name - password Some Password
+2019-11-04 18:55:25,680 [main] [DEBUG] seabattlegame.SeaBattleGame - Register Player Some Name - password Some Password
+2019-11-04 18:56:36,173 [main] [DEBUG] seabattlegame.SeaBattleGame - Register Player Some Name - password Some Password
+2019-11-04 20:35:20,543 [main] [DEBUG] seabattlegame.SeaBattleGame - Register Player Some Name - password Some Password
+2019-11-04 20:59:26,723 [main] [DEBUG] seabattlegame.SeaBattleGame - Register Player Some Name - password Some Password
+2019-11-04 20:59:41,363 [main] [DEBUG] seabattlegame.SeaBattleGame - Register Player Some Name - password Some Password
+2019-11-04 21:00:02,506 [main] [DEBUG] seabattlegame.SeaBattleGame - Register Player Some Name - password Some Password
+2019-11-04 21:00:53,519 [main] [DEBUG] seabattlegame.SeaBattleGame - Register Player Some Name - password Some Password
+2019-11-04 21:02:30,788 [main] [DEBUG] seabattlegame.SeaBattleGame - Register Player Some Name - password Some Password
+2019-11-04 21:03:41,684 [main] [DEBUG] seabattlegame.SeaBattleGame - Register Player Some Name - password Some Password
+2019-11-04 21:06:38,439 [main] [DEBUG] seabattlegame.SeaBattleGame - Register Player Some Name - password Some Password
+2019-11-04 21:07:14,943 [main] [DEBUG] seabattlegame.SeaBattleGame - Register Player Some Name - password Some Password
+2019-11-04 21:08:34,809 [main] [DEBUG] seabattlegame.SeaBattleGame - Register Player Some Name - password Some Password
+2019-11-06 10:54:30,244 [main] [DEBUG] seabattlegame.SeaBattleGame - Register Player null - password password
+2019-11-06 10:54:30,264 [main] [DEBUG] seabattlegame.SeaBattleGame - Register Player Some Name - password Some Password
+2019-11-06 10:54:31,006 [main] [DEBUG] seabattlegame.SeaBattleGame - Register Player Some Name - password Some Password
+2019-11-06 10:54:31,314 [main] [DEBUG] seabattlegame.SeaBattleGame - Register Player Some Name - password Some Password
+2019-11-06 10:54:31,561 [main] [DEBUG] seabattlegame.SeaBattleGame - Register Player Some Name - password Some Password
+2019-11-06 10:54:31,906 [main] [DEBUG] seabattlegame.SeaBattleGame - Register Player Jan - password 123
+2019-11-06 10:54:31,911 [main] [DEBUG] seabattlegame.SeaBattleGame - Register Player Some Name - password Some Password
+2019-11-06 10:54:32,207 [main] [DEBUG] seabattlegame.SeaBattleGame - Register Player Some Name - password Some Password
+2019-11-06 10:54:32,480 [main] [DEBUG] seabattlegame.SeaBattleGame - Register Player Some Name - password Some Password
+2019-11-06 10:54:32,788 [main] [DEBUG] seabattlegame.SeaBattleGame - Register Player Some Name - password Some Password
+2019-11-06 10:54:33,107 [main] [DEBUG] seabattlegame.SeaBattleGame - Register Player Jan - password null
+2019-11-06 10:54:33,112 [main] [DEBUG] seabattlegame.SeaBattleGame - Register Player Some Name - password Some Password
+2019-11-06 10:54:33,365 [main] [DEBUG] seabattlegame.SeaBattleGame - Register Player Some Name - password Some Password
+2019-11-06 10:54:33,638 [main] [DEBUG] seabattlegame.SeaBattleGame - Register Player Some Name - password Some Password
+2019-11-06 11:03:47,750 [main] [DEBUG] seabattlegame.SeaBattleGame - Register Player null - password password
+2019-11-06 11:03:47,769 [main] [DEBUG] seabattlegame.SeaBattleGame - Register Player Some Name - password Some Password
+2019-11-06 11:03:48,507 [main] [DEBUG] seabattlegame.SeaBattleGame - Register Player Some Name - password Some Password
+2019-11-06 11:03:48,798 [main] [DEBUG] seabattlegame.SeaBattleGame - Register Player Some Name - password Some Password
+2019-11-06 11:03:49,046 [main] [DEBUG] seabattlegame.SeaBattleGame - Register Player Some Name - password Some Password
+2019-11-06 11:03:49,324 [main] [DEBUG] seabattlegame.SeaBattleGame - Register Player Jan - password 123
+2019-11-06 11:03:49,328 [main] [DEBUG] seabattlegame.SeaBattleGame - Register Player Some Name - password Some Password
+2019-11-06 11:03:49,625 [main] [DEBUG] seabattlegame.SeaBattleGame - Register Player Some Name - password Some Password
+2019-11-06 11:03:49,857 [main] [DEBUG] seabattlegame.SeaBattleGame - Register Player Some Name - password Some Password
+2019-11-06 11:03:50,136 [main] [DEBUG] seabattlegame.SeaBattleGame - Register Player Some Name - password Some Password
+2019-11-06 11:03:50,392 [main] [DEBUG] seabattlegame.SeaBattleGame - Register Player Jan - password null
+2019-11-06 11:03:50,396 [main] [DEBUG] seabattlegame.SeaBattleGame - Register Player Some Name - password Some Password
+2019-11-06 11:03:50,635 [main] [DEBUG] seabattlegame.SeaBattleGame - Register Player Some Name - password Some Password
+2019-11-06 11:03:50,888 [main] [DEBUG] seabattlegame.SeaBattleGame - Register Player Some Name - password Some Password
+2019-11-06 11:06:11,242 [main] [DEBUG] seabattlegame.SeaBattleGame - Register Player null - password password
+2019-11-06 11:06:11,260 [main] [DEBUG] seabattlegame.SeaBattleGame - Register Player Some Name - password Some Password
+2019-11-06 11:06:12,050 [main] [DEBUG] seabattlegame.SeaBattleGame - Register Player Some Name - password Some Password
+2019-11-06 11:06:12,303 [main] [DEBUG] seabattlegame.SeaBattleGame - Register Player Some Name - password Some Password
+2019-11-06 11:06:12,590 [main] [DEBUG] seabattlegame.SeaBattleGame - Register Player Some Name - password Some Password
+2019-11-06 11:06:12,885 [main] [DEBUG] seabattlegame.SeaBattleGame - Register Player Jan - password 123
+2019-11-06 11:06:12,888 [main] [DEBUG] seabattlegame.SeaBattleGame - Register Player Some Name - password Some Password
+2019-11-06 11:06:13,129 [main] [DEBUG] seabattlegame.SeaBattleGame - Register Player Some Name - password Some Password
+2019-11-06 11:06:13,369 [main] [DEBUG] seabattlegame.SeaBattleGame - Register Player Some Name - password Some Password
+2019-11-06 11:06:13,601 [main] [DEBUG] seabattlegame.SeaBattleGame - Register Player Some Name - password Some Password
+2019-11-06 11:06:13,888 [main] [DEBUG] seabattlegame.SeaBattleGame - Register Player Jan - password null
+2019-11-06 11:06:13,892 [main] [DEBUG] seabattlegame.SeaBattleGame - Register Player Some Name - password Some Password
+2019-11-06 11:06:14,144 [main] [DEBUG] seabattlegame.SeaBattleGame - Register Player Some Name - password Some Password
+2019-11-06 11:06:14,408 [main] [DEBUG] seabattlegame.SeaBattleGame - Register Player Some Name - password Some Password
+2019-11-06 11:08:08,952 [main] [DEBUG] seabattlegame.SeaBattleGame - Register Player null - password password
+2019-11-06 11:08:08,969 [main] [DEBUG] seabattlegame.SeaBattleGame - Register Player Some Name - password Some Password
+2019-11-06 11:08:09,677 [main] [DEBUG] seabattlegame.SeaBattleGame - Register Player Some Name - password Some Password
+2019-11-06 11:08:09,937 [main] [DEBUG] seabattlegame.SeaBattleGame - Register Player Some Name - password Some Password
+2019-11-06 11:08:10,181 [main] [DEBUG] seabattlegame.SeaBattleGame - Register Player Some Name - password Some Password
+2019-11-06 11:08:10,455 [main] [DEBUG] seabattlegame.SeaBattleGame - Register Player Jan - password 123
+2019-11-06 11:08:10,457 [main] [DEBUG] seabattlegame.SeaBattleGame - Register Player Some Name - password Some Password
+2019-11-06 11:08:10,686 [main] [DEBUG] seabattlegame.SeaBattleGame - Register Player Some Name - password Some Password
+2019-11-06 11:08:10,964 [main] [DEBUG] seabattlegame.SeaBattleGame - Register Player Some Name - password Some Password
+2019-11-06 11:08:11,196 [main] [DEBUG] seabattlegame.SeaBattleGame - Register Player Some Name - password Some Password
+2019-11-06 11:08:11,493 [main] [DEBUG] seabattlegame.SeaBattleGame - Register Player Jan - password null
+2019-11-06 11:08:11,496 [main] [DEBUG] seabattlegame.SeaBattleGame - Register Player Some Name - password Some Password
+2019-11-06 11:08:11,803 [main] [DEBUG] seabattlegame.SeaBattleGame - Register Player Some Name - password Some Password
+2019-11-06 11:08:12,041 [main] [DEBUG] seabattlegame.SeaBattleGame - Register Player Some Name - password Some Password

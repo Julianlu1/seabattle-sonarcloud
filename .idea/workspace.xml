@@ -1,0 +1,658 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1570f611-ffe3-4d4c-84f8-35ab3e279a18" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_2_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_core_1_2_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_gson_gson_2_8_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_codec_commons_codec_1_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_annotation_javax_annotation_api_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_javax_servlet_api_3_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_websocket_javax_websocket_api_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_websocket_javax_websocket_client_api_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_ws_rs_javax_ws_rs_api_2_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_4_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_jetty_annotations_9_4_15_v20190215.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_jetty_client_9_4_15_v20190215.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_jetty_http_9_4_15_v20190215.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_jetty_io_9_4_15_v20190215.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_jetty_jndi_9_4_15_v20190215.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_jetty_plus_9_4_15_v20190215.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_jetty_security_9_4_15_v20190215.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_jetty_server_9_4_15_v20190215.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_jetty_servlet_9_4_15_v20190215.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_jetty_util_9_4_15_v20190215.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_jetty_webapp_9_4_15_v20190215.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_jetty_xml_9_4_15_v20190215.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_websocket_javax_websocket_client_impl_9_4_15_v20190215.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_websocket_javax_websocket_server_impl_9_4_15_v20190215.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_websocket_websocket_api_9_4_15_v20190215.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_websocket_websocket_client_9_4_15_v20190215.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_websocket_websocket_common_9_4_15_v20190215.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_websocket_websocket_server_9_4_15_v20190215.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_websocket_websocket_servlet_9_4_15_v20190215.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_2_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_2_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_3_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_engine_5_3_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_3_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_engine_1_3_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_openjfx_javafx_base_11_0_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_openjfx_javafx_base_win_11_0_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_openjfx_javafx_controls_11_0_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_openjfx_javafx_controls_win_11_0_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_openjfx_javafx_graphics_11_0_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_openjfx_javafx_graphics_win_11_0_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_opentest4j_opentest4j_1_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_ow2_asm_asm_7_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_ow2_asm_asm_analysis_7_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_ow2_asm_asm_commons_7_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_ow2_asm_asm_tree_7_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_25.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/java_json.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/java_json1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/8/08b667311cde5f00d3a5e8dcd3c333f198245af5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/c/0cbcb5d634e486e7c6f1f4a119638ae4918a2475" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/1/11b93635fb707da35c557573c866c3d664374b1c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/7/17dd33d1ce23a9947d61f307846e3043c79dc5ce" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/c/1c497fbb3a46b78edf04cc2a2fa33f67e3ffbe2a" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/7/277f1c6c76a22bd703a6a95ae9fdb8b5b946860a" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/e/2ead4bb251393c5b0838481209a3d57b46a0fbd8" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/0/3056c0be1c43dec6966a4972d7c198711d7c58b4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/0/4036848fdd8fb36e2b391178c45aa341fedd233a" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/4/442292b8a7efeabbe4cc176709b833b1792140ec" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/8/4867105a3060758f628c8258568c0c4730e4713d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/9/597d54d431d590656ae2ac41d56df6a39e78833f" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/a/6a4f3ccdfe70094deab3d5550bb014f9e23a06a5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/b/6b50b6e6db0cba48487bc017a919c39589ada3ef" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/c/6ceb94dc1d8ffdaabb3285428c46b469f53dbecd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/3/735b8370fa06228a46365e3fa5dadf5bb70b12f5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/5/75e98a3669c1770732321e990d478018d09de179" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/a/7a0ba85107b881156bed1d1b654a390d62d6b27e" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/b/7b74f0cb6221cfe3d721eb05e87227c935541920" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/e/7e0478fe46402b2041682f0fb486aca4f949323c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/a/8afa7fa69cb5465295c8da0f0e9d4853fda0a2b6" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/e/8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/9/99621bbf93d5c005f0f55d7ff5f88d0fa701574b" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/0/a029fffd9ce20fab13749fe1fe22a4f1909782d0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/0/a0a13a2cebe0126e05baab9289fa02a95840e055" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/1/b15e7ccc4ac1e21f051f7314f51e0ea1f60bb1f2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/5/b5ea3a077b669227c068e715b6cfb4f8e8cf385b" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/6/b68d466174895493f9eeb4ffcaca563a85d1c2e4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/a/ba91140fefaae1fc9bc32109a60e0bafdfaa62d0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/d/bd6b3615b04c86b2f432dfa8ad86aed45cef2e89" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/0/d0b9c40c124a0af49ca65eacef4031dfaac5ae79" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/3/d3125d2ad72df1e9f5fb9b6fb4b89750baa5e979" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/4/d4fd38bf55bf8a0be8faabba937098076c11ee56" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/6/d6c0817c92082013fe2b0eeade7df9db4d14b4b4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/7/d7c912ad667a343484d9967d65fc2b7fc3171562" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/2/e298fb24f67b876557d81a8b8fa436cd1f9196b7" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/9/e9ca7e556290b26e1dbd30f2ccb06131789811b0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/e/ee19fd947f4316d787c622250994b91702395305" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/f/eff7f4f60bda289444eaa3a781f119135112c304" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/8/f8e8f9f3da94c460e4ce07f85de6cae2ce4db2ca" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/9/f95a2ff35b10e5e9ef92cac95c407bbbed4de229" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CHANGELOG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SeaBattleLogin/SeaBattleLogin.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SeaBattleLogin/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SeaBattleLogin/src/main/java/module-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SeaBattleLogin/src/main/java/seaBattleLogin/ISeaBattleLogin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SeaBattleLogin/src/main/java/seaBattleLogin/SeaBattleLogin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SeaBattleLogin/target/classes/module-info.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SeaBattleLogin/target/classes/seaBattleLogin/ISeaBattleLogin.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SeaBattleLogin/target/classes/seaBattleLogin/Response.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SeaBattleLogin/target/classes/seaBattleLogin/SeaBattleLogin$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SeaBattleLogin/target/classes/seaBattleLogin/SeaBattleLogin$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SeaBattleLogin/target/classes/seaBattleLogin/SeaBattleLogin.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SeaBattleLogin/target/classes/seaBattleLogin/User.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SeaBattleStart.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/seabattle.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seabattle-start" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seabattleCommunicatorShared/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seabattleCommunicatorShared/seabattleCommunicatorShared.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seabattleCommunicatorShared/src/main/java/module-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seabattleCommunicatorShared/src/main/java/seabattlecommunicatorshared/CommunicatorWebSocketMessage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seabattleCommunicatorShared/src/main/java/seabattlecommunicatorshared/CommunicatorWebSocketMessageOperation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seabattleCommunicatorShared/src/main/java/seabattlecommunicatorshared/Game.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seabattleCommunicatorShared/src/main/java/seabattlecommunicatorshared/Grid.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seabattleCommunicatorShared/src/main/java/seabattlecommunicatorshared/PlaceShipDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seabattleCommunicatorShared/src/main/java/seabattlecommunicatorshared/Player.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seabattleCommunicatorShared/src/main/java/seabattlecommunicatorshared/Ship.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seabattleCommunicatorShared/src/main/java/seabattlecommunicatorshared/ShipType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seabattleCommunicatorShared/src/main/java/seabattlecommunicatorshared/ShotType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seabattleCommunicatorShared/src/main/java/seabattlecommunicatorshared/Square.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seabattleCommunicatorShared/src/main/java/seabattlecommunicatorshared/SquareState.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seabattleCommunicatorShared/target/classes/seabattlecommunicatorshared/CommunicatorWebSocketMessage.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seabattleCommunicatorShared/target/classes/seabattlecommunicatorshared/CommunicatorWebSocketMessageOperation.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seabattleCommunicatorShared/target/classes/seabattlecommunicatorshared/PlaceShipDTO.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seabattleclient/logs/seabattle.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seabattleclient/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seabattleclient/seabattleclient.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seabattleclient/src/main/java/module-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seabattleclient/src/main/java/seabattlecommunicator/Communicator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seabattleclient/src/main/java/seabattlecommunicator/CommunicatorClientWebSocket.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seabattleclient/src/main/java/seabattlecommunicator/CommunicatorMessage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seabattleclient/src/main/java/seabattlecommunicator/ICommunicator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seabattleclient/src/main/java/seabattlecommunicator/iSubject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seabattleclient/src/main/java/seabattlegame/ISeaBattleGame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seabattleclient/src/main/java/seabattlegame/SeaBattleGame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seabattleclient/src/main/java/seabattlegame/iObserver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seabattleclient/src/main/java/seabattlegui/ISeaBattleGUI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seabattleclient/src/main/java/seabattlegui/SeaBattleApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seabattleclient/src/main/resources/logback.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seabattleclient/src/test/java/seabattleunittests/MockSeaBattleApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seabattleclient/src/test/java/seabattleunittests/SeaBattleGameTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seabattleclient/target/classes/logback.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seabattleclient/target/classes/module-info.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seabattleclient/target/classes/seabattlegame/ISeaBattleGame.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seabattleclient/target/classes/seabattlegame/SeaBattleGame$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seabattleclient/target/classes/seabattlegame/SeaBattleGame.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seabattleclient/target/classes/seabattlegui/ISeaBattleGUI.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seabattleclient/target/classes/seabattlegui/SeaBattleApplication$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seabattleclient/target/classes/seabattlegui/SeaBattleApplication$10.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seabattleclient/target/classes/seabattlegui/SeaBattleApplication$11.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seabattleclient/target/classes/seabattlegui/SeaBattleApplication$12.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seabattleclient/target/classes/seabattlegui/SeaBattleApplication$13.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seabattleclient/target/classes/seabattlegui/SeaBattleApplication$14.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seabattleclient/target/classes/seabattlegui/SeaBattleApplication$15.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seabattleclient/target/classes/seabattlegui/SeaBattleApplication$16.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seabattleclient/target/classes/seabattlegui/SeaBattleApplication$17.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seabattleclient/target/classes/seabattlegui/SeaBattleApplication$18.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seabattleclient/target/classes/seabattlegui/SeaBattleApplication$19.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seabattleclient/target/classes/seabattlegui/SeaBattleApplication$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seabattleclient/target/classes/seabattlegui/SeaBattleApplication$20.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seabattleclient/target/classes/seabattlegui/SeaBattleApplication$21.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seabattleclient/target/classes/seabattlegui/SeaBattleApplication$22.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seabattleclient/target/classes/seabattlegui/SeaBattleApplication$23.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seabattleclient/target/classes/seabattlegui/SeaBattleApplication$24.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seabattleclient/target/classes/seabattlegui/SeaBattleApplication$3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seabattleclient/target/classes/seabattlegui/SeaBattleApplication$4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seabattleclient/target/classes/seabattlegui/SeaBattleApplication$5.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seabattleclient/target/classes/seabattlegui/SeaBattleApplication$6.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seabattleclient/target/classes/seabattlegui/SeaBattleApplication$7.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seabattleclient/target/classes/seabattlegui/SeaBattleApplication$8.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seabattleclient/target/classes/seabattlegui/SeaBattleApplication$9.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seabattleclient/target/classes/seabattlegui/SeaBattleApplication.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seabattleclient/target/test-classes/seabattleunittests/MockSeaBattleApplication.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seabattleclient/target/test-classes/seabattleunittests/SeaBattleGameTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seabattleserver/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seabattleserver/seabattleserver.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seabattleserver/src/main/java/communicatorserver/CommunicatorServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seabattleserver/src/main/java/communicatorserver/CommunicatorServerWebSocket.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seabattleserver/target/classes/communicatorserver/CommunicatorServer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seabattleserver/target/classes/communicatorserver/CommunicatorServerWebSocket$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seabattleserver/target/classes/communicatorserver/CommunicatorServerWebSocket.class" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="148" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="module-info" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1RJtaMdvGwTdUsAwZR4GFdPHlUN" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="SONARLINT_PRECOMMIT_ANALYSIS" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/seabattleCommunicatorShared/src/main/java/seabattlecommunicatorshared" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.30998853" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="seabattlecommunicatorclient" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="seabattlecommunicatorshared" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\FontysICT\Semester 3\Software Enginering\Week 9 - 4-11-2019\seabattle-sonarqube\seabattle-sonarcloud\seabattleCommunicatorShared\src\main\java\seabattlecommunicatorshared" />
+      <recent name="D:\FontysICT\Semester 3\Software Enginering\SE3Zeeslag\zeeslagse3\seabattleCommunicatorShared\src\main\java" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.SeaBattleApplication">
+    <configuration name="CommunicatorServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="communicatorserver.CommunicatorServer" />
+      <module name="seabattleserver" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="communicatorserver.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SeaBattleApplication" type="Application" factoryName="Application" singleton="false" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="seabattlegui.SeaBattleApplication" />
+      <module name="seabattleclient" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="seabattlegui.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SeaBattleGameTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="seabattleclient" />
+      <extension name="coverage" track_test_folders="true">
+        <pattern>
+          <option name="PATTERN" value="seabattleunittests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="seabattleunittests" />
+      <option name="MAIN_CLASS_NAME" value="seabattleunittests.SeaBattleGameTest" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="PARAMETERS" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SeaBattleGameTest.testPlaceShipHorizontal" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="seabattleclient" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="seabattleunittests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="seabattleunittests" />
+      <option name="MAIN_CLASS_NAME" value="seabattleunittests.SeaBattleGameTest" />
+      <option name="METHOD_NAME" value="testPlaceShipHorizontal" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SeaBattleGameTest.testPlaceShipVertical" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="seabattleclient" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="seabattleunittests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="seabattleunittests" />
+      <option name="MAIN_CLASS_NAME" value="seabattleunittests.SeaBattleGameTest" />
+      <option name="METHOD_NAME" value="testPlaceShipVertical" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.CommunicatorServer" />
+      <item itemvalue="Application.SeaBattleApplication" />
+      <item itemvalue="JUnit.SeaBattleGameTest" />
+      <item itemvalue="JUnit.SeaBattleGameTest.testPlaceShipHorizontal" />
+      <item itemvalue="JUnit.SeaBattleGameTest.testPlaceShipVertical" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.SeaBattleApplication" />
+        <item itemvalue="Application.CommunicatorServer" />
+        <item itemvalue="JUnit.SeaBattleGameTest" />
+        <item itemvalue="JUnit.SeaBattleGameTest.testPlaceShipVertical" />
+        <item itemvalue="JUnit.SeaBattleGameTest.testPlaceShipHorizontal" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1570f611-ffe3-4d4c-84f8-35ab3e279a18" name="Default Changelist" comment="" />
+      <created>1569397088500</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1569397088500</updated>
+      <workItem from="1569397094072" duration="14346000" />
+      <workItem from="1570001423972" duration="47000" />
+      <workItem from="1570001678475" duration="305000" />
+      <workItem from="1570002354536" duration="18654000" />
+      <workItem from="1570432393986" duration="183000" />
+      <workItem from="1570523006219" duration="5118000" />
+      <workItem from="1570539682615" duration="7128000" />
+      <workItem from="1570604771952" duration="20240000" />
+      <workItem from="1570715975463" duration="60000" />
+      <workItem from="1570872876938" duration="45000" />
+      <workItem from="1570873311186" duration="32000" />
+      <workItem from="1571228724938" duration="8345000" />
+      <workItem from="1571307275994" duration="3238000" />
+      <workItem from="1571340196633" duration="2313000" />
+      <workItem from="1571389072203" duration="9403000" />
+      <workItem from="1571418456083" duration="4980000" />
+      <workItem from="1571642000574" duration="684000" />
+      <workItem from="1571744842848" duration="1898000" />
+      <workItem from="1571746799965" duration="718000" />
+      <workItem from="1571747539200" duration="2419000" />
+      <workItem from="1571817860184" duration="15113000" />
+      <workItem from="1571860811345" duration="207000" />
+      <workItem from="1571914594117" duration="14000" />
+      <workItem from="1572122053399" duration="110000" />
+      <workItem from="1572127085334" duration="22000" />
+      <workItem from="1572254933003" duration="1562000" />
+      <workItem from="1572282931304" duration="37000" />
+      <workItem from="1572423528690" duration="7685000" />
+      <workItem from="1572439528671" duration="2609000" />
+      <workItem from="1572630280767" duration="3910000" />
+      <workItem from="1572647831095" duration="43000" />
+      <workItem from="1572692905324" duration="1621000" />
+      <workItem from="1572725163888" duration="991000" />
+      <workItem from="1572726593009" duration="4144000" />
+      <workItem from="1572813144609" duration="675000" />
+      <workItem from="1572815376031" duration="45000" />
+      <workItem from="1572815994928" duration="22000" />
+      <workItem from="1572854667931" duration="16557000" />
+      <workItem from="1572899986094" duration="2585000" />
+      <workItem from="1572944782642" duration="572000" />
+      <workItem from="1572946905449" duration="1558000" />
+      <workItem from="1572984451264" duration="3965000" />
+      <workItem from="1573028600937" duration="19673000" />
+      <workItem from="1573069286536" duration="1904000" />
+      <workItem from="1573465654985" duration="1203000" />
+      <workItem from="1573470094761" duration="4468000" />
+      <workItem from="1573550911592" duration="2368000" />
+      <workItem from="1573556341106" duration="39000" />
+      <workItem from="1573633315914" duration="680000" />
+      <workItem from="1573634632665" duration="11302000" />
+      <workItem from="1573724857524" duration="112000" />
+      <workItem from="1573736725109" duration="137000" />
+      <workItem from="1574070043951" duration="1831000" />
+      <workItem from="1574236828807" duration="2997000" />
+      <workItem from="1574247778681" duration="852000" />
+      <workItem from="1574250393668" duration="6358000" />
+      <workItem from="1574264223129" duration="648000" />
+      <workItem from="1574520662769" duration="1022000" />
+      <workItem from="1574524028762" duration="621000" />
+      <workItem from="1574675689499" duration="5000" />
+      <workItem from="1574773661935" duration="10661000" />
+      <workItem from="1574846515110" duration="6568000" />
+      <workItem from="1574856707870" duration="5454000" />
+      <workItem from="1575113059207" duration="620000" />
+      <workItem from="1575127822655" duration="1796000" />
+      <workItem from="1575144290641" duration="2234000" />
+      <workItem from="1575226502973" duration="682000" />
+      <workItem from="1575281222644" duration="8474000" />
+      <workItem from="1575376438597" duration="2552000" />
+    </task>
+    <task id="LOCAL-00001" summary="Pushh">
+      <created>1570001925432</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1570001925432</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Classes eringezet">
+      <created>1570003319387</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1570003319387</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Speler kan nu schepen plaatsen en alle schepen van het bord weghalen.">
+      <created>1570563676910</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1570563676910</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Foutafhandeling schepen plaatsen geimplementeerd. Speler kan ervoor kiezen om automatisch zijn schepen te plaatsen. De schepen van de computer wordt nu ook automatisch gegenereerd.">
+      <created>1570623579274</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1570623579274</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Schepen kunnen worden geschoten, wanneer een schip gezonken is wordt dit ook aangegeven.">
+      <created>1571749367373</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1571749367373</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Post request werkend, Computer schiet nu op dezelfde plek terug van de speler.">
+      <created>1571860996991</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1571860996991</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Rest api werkt nu. Je kan nu inloggen en registreren">
+      <created>1572427015338</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1572427015338</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Testen bijgewerkt">
+      <created>1572898802230</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1572898802230</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Pushh" />
+    <MESSAGE value="Classes eringezet" />
+    <MESSAGE value="Speler kan nu schepen plaatsen en alle schepen van het bord weghalen." />
+    <MESSAGE value="Foutafhandeling schepen plaatsen geimplementeerd. Speler kan ervoor kiezen om automatisch zijn schepen te plaatsen. De schepen van de computer wordt nu ook automatisch gegenereerd." />
+    <MESSAGE value="Schepen kunnen worden geschoten, wanneer een schip gezonken is wordt dit ook aangegeven." />
+    <MESSAGE value="Post request werkend, Computer schiet nu op dezelfde plek terug van de speler." />
+    <MESSAGE value="Rest api werkt nu. Je kan nu inloggen en registreren" />
+    <MESSAGE value="Testen bijgewerkt" />
+    <option name="LAST_COMMIT_MESSAGE" value="Testen bijgewerkt" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/seabattleserver/src/main/java/communicatorserver/CommunicatorServerWebSocket.java</url>
+          <line>64</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/seabattleclient/src/main/java/seabattlecommunicator/CommunicatorClientWebSocket.java</url>
+          <line>134</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/seabattleserver/src/main/java/communicatorserver/CommunicatorServerWebSocket.java</url>
+          <line>75</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/seabattleserver/src/main/java/communicatorserver/CommunicatorServerWebSocket.java</url>
+          <line>78</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/seabattleserver/src/main/java/communicatorserver/CommunicatorServerWebSocket.java</url>
+          <line>164</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/seabattleclient/src/main/java/seabattlegame/SeaBattleGame.java</url>
+          <line>144</line>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/seabattleclient/src/main/java/seabattlegui/SeaBattleApplication.java</url>
+          <line>870</line>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/seabattleclient/src/main/java/seabattlegui/SeaBattleApplication.java</url>
+          <line>857</line>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/seabattleclient/src/main/java/seabattlegame/SeaBattleGame.java</url>
+          <line>32</line>
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/seabattleserver/src/main/java/communicatorserver/CommunicatorServerWebSocket.java</url>
+          <line>163</line>
+          <option name="timeStamp" value="34" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/seabattleserver/src/main/java/communicatorserver/CommunicatorServerWebSocket.java</url>
+          <line>162</line>
+          <option name="timeStamp" value="35" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/seabattleclient/src/main/java/seabattlegui/SeaBattleApplication.java</url>
+          <line>1027</line>
+          <option name="timeStamp" value="36" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/seabattleclient/src/main/java/seabattlegui/SeaBattleApplication.java</url>
+          <line>1028</line>
+          <option name="timeStamp" value="37" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/seabattleclient/src/main/java/seabattlegame/SeaBattleGame.java</url>
+          <line>139</line>
+          <properties>
+            <option name="lambda-ordinal" value="-1" />
+          </properties>
+          <option name="timeStamp" value="38" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/seabattleclient/src/main/java/seabattlecommunicator/CommunicatorClientWebSocket.java</url>
+          <line>158</line>
+          <option name="timeStamp" value="39" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/seabattleserver/src/main/java/communicatorserver/CommunicatorServerWebSocket.java</url>
+          <line>169</line>
+          <option name="timeStamp" value="41" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/seabattleserver/src/main/java/communicatorserver/CommunicatorServerWebSocket.java</url>
+          <line>171</line>
+          <option name="timeStamp" value="42" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/seabattleclient/src/main/java/seabattlegui/SeaBattleApplication.java</url>
+          <line>1024</line>
+          <option name="timeStamp" value="43" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/seabattleclient/src/main/java/seabattlegui/SeaBattleApplication.java</url>
+          <line>1031</line>
+          <option name="timeStamp" value="44" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/seabattleclient/src/main/java/seabattlegame/SeaBattleGame.java</url>
+          <line>143</line>
+          <properties class="seabattlegame.SeaBattleGame" method="checkSafeToAdd">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/seabattleclient/src/main/java/seabattlegui/SeaBattleApplication.java</url>
+          <line>867</line>
+          <properties class="seabattlegui.SeaBattleApplication" method="placeShipAtSelectedSquare">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/SeaBattleStart$SeaBattleGameTest.ic" NAME="SeaBattleGameTest Coverage Results" MODIFIED="1573034882400" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>seabattleunittests.*</FILTER>
+    </SUITE>
+  </component>
+</project>

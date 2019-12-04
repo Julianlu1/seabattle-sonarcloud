@@ -1,0 +1,4 @@
+20190615
+- POM's and Maven compiler cleanup to prevent dependency clashes
+- Disabled surefire plugin (base POM)
+- Removed iml files and added *iml to .gitignore

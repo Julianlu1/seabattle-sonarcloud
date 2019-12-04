@@ -1,0 +1,11 @@
+
+Osquid:S1481B",Remove this unused "message" local variable.(æª‚êüÿÿÿÿ8‹„ëŞâ-
+Tsquid:S2209ª"5Change this instance-reference to a static reference.(…ØÑü8”äÃÊæ-
+Xsquid:S2209f"5Change this instance-reference to a static reference.(İé©«ûÿÿÿÿ8”äÃÊæ-
+"squid:SwitchLastCaseIsDefaultCheck`"YComplete cases by adding the missing enum constants or add a default case to this switch.(ìè²ë8êàÿîâ-
+Isquid:S00108")Either remove or fill this block of code.(å¥‡8İïğ„ä-
+Isquid:S5411"*Use the primitive boolean expression here.(ÙïÀÎ8´ıî„ä-
+isquid:S1301`"KReplace this "switch" statement by "if" statements to increase readability.(ìè²ë8êàÿîâ-
+usquid:S3776N"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(Œö…íüÿÿÿÿ8¹¶à„ä-
+[squid:UselessImportCheck"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8”äÃÊæ-
+^squid:S1854B";Remove this useless assignment to local variable "message".(æª‚êüÿÿÿÿ8‹„ëŞâ-

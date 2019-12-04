@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="seabattleCommunicatorShared" />
+        <module name="seabattleclient" />
+        <module name="seabattleserver" />
+        <module name="SeaBattleLogin" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="CommunicatorShared" target="11" />
+      <module name="seabattleclient" target="11" />
+      <module name="seabattleCommunicatorClient" target="11" />
+      <module name="seabattleCommunicatorShared" target="11" />
+      <module name="SeaBattleLogin" target="11" />
+      <module name="seabattleserver" target="11" />
+      <module name="SeaBattleStart" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
